@@ -1,0 +1,6 @@
+﻿  Paragraph.cpp
+H:\repos\Project10\Project10\MyString.h(10,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Paragraph.cpp')
+  
+H:\repos\Project10\Project10\Paragraph.cpp(27,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Project10.vcxproj -> H:\repos\Project10\x64\Debug\Project10.exe
